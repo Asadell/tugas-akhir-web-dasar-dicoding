@@ -320,14 +320,14 @@ footer p {
   main {
     padding-top: 6rem;
   }
-  .content {
+  #content {
     flex-flow: column nowrap;
   }
 
-  .content aside {
+  #content aside {
     align-self: center;
   }
-  .content .hero {
+  #content .hero {
     flex-direction: column;
   }
   .hero {
